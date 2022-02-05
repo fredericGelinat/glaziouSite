@@ -358,6 +358,7 @@ h1 {
   header {
   
     height: 55vh;
+    background-position: left;
   }
   
   .text-intro {
