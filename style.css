@@ -164,7 +164,7 @@ h1 {
     height: 200px;
     width: 300px;
     position: relative;
-    background: url(/img/fond-photo.jpg);
+    background: url(../img/fond-photo.jpg);
     
   }
   .headerPhotos{
