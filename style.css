@@ -42,7 +42,7 @@ h1 {
   transition: all 0.4s ease;
 }
 .navbar a {
-  color: #fff!important;
+  color: rgb(10, 10, 10)!important;
     font-family: 'lato';
     font-size: 22px;
     font-weight: 700;
